@@ -1,9 +1,10 @@
+<p align="center">
 <img align="center" alt="Bitaps.com" src="https://bitaps.com/static/img/bitaps_logo.svg">
-
-[https://bitaps.com](https://bitaps.com/)
-
+<br>
+<a href="https://bitaps.com/">https://bitaps.com</a>
+<br>
 Bitaps provides Bitcoin processing RESTful API.
-
+</p>
 ## Everyone knows cryptocurrency advantages:
 
 1) the anonymity
@@ -37,7 +38,7 @@ Bitaps provides Bitcoin processing RESTful API.
 * a lot of other tools for developers.
 
 ## Bitcoin Block explorer:
-[https://bitaps.com/](https://bitaps.com/)
+[https://bitaps.com](https://bitaps.com/) - 
 Our first public product is a block explorer website. You can find a real-time information about Bitcoin network events, statistics and can use API for your own applications. Block explorer based on high performance node, that can be connected more then 5000+ nodes and currently connected to over 500 worldwide nodes at one time. Explorer database model allows to store all events include orphaned blocks, double spending activity, broken transactions and reach access to any address information.
 
 The main priority for us is users’ privacy, security and clarity as it is designed in Bitcoin ideology. 
