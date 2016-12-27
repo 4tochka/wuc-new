@@ -2,7 +2,7 @@
  - company: BitPay
    description: BitPay is the world's largest Bitcoin payment processor. It's used by major companies like Microsoft, Rakuten, and Newegg. Merchants on BitPay's starter plan can accept up to 30 transactions or $1,000 of Bitcoin payments per month for free. Larger merchants pay just 1% per transaction. 
    fees: Free / 1%
-   img: /images/bitpay-logo.png 
+   img: https://bitaps.com/static/img/bitaps_logo.svg
    url: https://bitpay.com/
     
  - company: Coinbase
