@@ -1,12 +1,6 @@
- - company: Apirone.com
-   description: Apirone.com - SegWit bitcoin processing provider. Accept cryptocurrency payments on your site, online business, ICO, integrate them into retail and the banking services. No KYC/documentation necessary, fixed Fee 0.0002 Btc for any amount forever, around the world without country restrictions, callback to TOR network for cypherpunks.
+ - company: Bitaps
+   description: Bitaps provides Bitcoin processing RESTful API without registration and restrictions. API includes basic processing, affiliate and mass payments, Bitcoin smart contracts to keep distributed hot wallet and cold storage balances, standard Bitcoin ledger API, market prices and a lot of other tools for developers.
    fees: Free / 0.0002 BTC
-   img: /images/apirone_logo.svg 
-   url: https://apirone.com/
-  
-- company: Bitaps
-   description: Bitaps provides bitcoin processing RESTful API without registration and restrictions. API includes basic processing, affiliate and mass payments, Bitcoin smart contracts to keep distributed hot wallet and cold storage balances, standard Bitcoin ledger API, market prices and a lot of other tools for developers.
-   fees: Free / 0.000450 BTC
    img: /images/bitaps_logo.svg 
    url: https://bitaps.com/
   
